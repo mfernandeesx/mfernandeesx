@@ -23,6 +23,13 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## 📫 Contato
+
+💬 Estou aberto a oportunidades de estágio e desenvolvimento júnior.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-fernandes-de-oliveira-0060a0396/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayconcfolivei@gmail.com)
+
           
 <!--
 **mfernandeesx/mfernandeesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
