@@ -28,7 +28,7 @@
 💬 Estou aberto a oportunidades de estágio e desenvolvimento júnior.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maycon-fernandes-de-oliveira-0060a0396/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayconcfolivei@gmail.com)
+- 📧 Email: mayconcfolivei@gmail.com
 
           
 <!--
