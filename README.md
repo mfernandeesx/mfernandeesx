@@ -14,7 +14,9 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfernandeesx&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfernandeesx&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfernandeesx&show_icons=true&theme=tokyonight)
+
 
 ## 🛠️ Tecnologias
 <div style="display: inline_block"><br>
