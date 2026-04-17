@@ -2,22 +2,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas, com interesse em iniciar carreira na área de Tecnologia da Informação. Possuo conhecimentos iniciais em Cloud Computing, com foco na plataforma AWS, e estou em constante aprendizado nas linguagens de programação Python e Java. Busco uma oportunidade como estagiário ou desenvolvedor júnior, onde possa aplicar meus conhecimentos, desenvolver habilidades técnicas e contribuir para o crescimento da equipe e da organização.
 
-## 📚 Atualmente estudando
-
-- AWS Cloud Practitioner Essentials
-- Python (lógica e automação)
-- Java (POO e fundamentos)
-
-
-
 
 ## 🛠️ Tecnologias
-<div style="display: inline_block"><br>
-          <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-          <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-          <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-          
-</div>
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,git)](https://skillicons.dev)
 
 ## 📫 Contato
 
