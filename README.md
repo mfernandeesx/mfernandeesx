@@ -4,7 +4,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, com interesse em iniciar ca
 
 
 ## 🛠️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,python,aws,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,git)](https://skillicons.dev)
 
 ## 📫 Contato
 
