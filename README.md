@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e em constante evolução. Tenho foco em Cloud Computing com AWS e desenvolvo projetos usando Python e Java. Busco minha primeira oportunidade como estagiário ou desenvolvedor júnior para colocar em prática o que aprendo todos os dias e contribuir com times que valorizam aprendizado e impacto real.
 
 ## 🛠️ Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,python,aws,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,aws,git,golang)](https://skillicons.dev)
 
 ## 📫 Contato
 
